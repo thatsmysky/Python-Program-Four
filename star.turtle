@@ -1,0 +1,10 @@
+color blue
+line -200 200 0 400
+color red
+line 200 200 -144 400
+color green
+line -124 -35 72 400
+color black
+line 0 345 288 400
+color purple
+line 124 -35 144 400

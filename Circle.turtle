@@ -1,0 +1,6 @@
+color blue
+circle -50 50 100
+color green
+circle 50 -50 100
+color red
+circle 0 0 100

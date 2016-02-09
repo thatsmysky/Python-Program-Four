@@ -1,0 +1,8 @@
+color red
+rect -100 100 200 50
+color blue
+circle 0 0 50
+color black
+line -200 200 -90 200
+color green
+triangle 50 50 0 100

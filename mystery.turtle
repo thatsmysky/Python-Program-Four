@@ -1,0 +1,40 @@
+color LightBlue
+rect -108 180 240 320
+rect -120 196 264 16
+rect -90 212 204 16
+color RoyalBlue4
+rect -90 224 204 12
+color yellow
+rect -6 240 36 15
+color RoyalBlue4
+rect -114 -140 252 12
+rect 12 168 6 304
+color white
+rect 6 168 6 304
+rect 96 168 6 304
+rect -78 168 6 304
+rect -84 188 192 16
+color RoyalBlue4
+rect -60 156 48 56
+rect -60 84 48 56
+rect -60 12 48 56
+rect -60 -60 48 56
+color white
+rect -57 153 12 24
+rect -42 153 12 24
+rect -26 153 12 24
+rect -57 126 12 24
+rect -42 126 12 24
+rect -26 126 12 24
+color RoyalBlue4
+rect 36 156 48 56
+rect 36 84 48 56
+rect 36 12 48 56
+rect 36 -60 48 56
+color white
+rect 38 153 12 24
+rect 54 153 12 24
+rect 69 153 12 24
+rect 38 126 12 24
+rect 54 126 12 24
+rect 69 126 12 24

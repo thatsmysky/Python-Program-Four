@@ -1,0 +1,6 @@
+color red
+rect -100 75 200 50
+COLOR green
+RECT -100 25 200 50
+color blue
+rect -100 -25 200 50
